@@ -1,0 +1,7 @@
+{
+  "prompt": "A powerful, emotional surreal image of human lungs formed entirely from a city skyline, the left lung clean and green with trees and fresh air, the right lung dark, filled with dense smog and pollution, factories emitting thick black smoke, buildings crumbling into ash, small human silhouettes fading into the polluted side, dramatic lighting, cinematic, ultra detailed, symbolic of air pollution and human health, no text, no labels, single frame",
+  "model": "DALL·E 3",
+  "dataset_name": "Air Pollution and Deaths (PM2.5)",
+  "dataset_url": "https://ourworldindata.org/air-pollution",
+  "insight": "Air pollution fills human lungs invisibly and leads to millions of deaths"
+}
